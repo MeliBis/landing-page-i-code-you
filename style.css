@@ -113,6 +113,9 @@ input[type="submit"]:hover{
    color: tomato;
    background: #fff;
 }
-
+footer a{
+  text-decoration: none;
+  color: #fff;
+}
 
  @media { }
